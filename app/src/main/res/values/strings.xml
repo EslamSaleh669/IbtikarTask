@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ebtikar Task</string>
+    <string name="vote_count">vote count</string>
+    <string name="vote_avg">vote avg</string>
+    <string name="language">language</string>
+    <string name="overview">overView</string>
+    <string name="download_photo">Download Photo</string>
+</resources>
